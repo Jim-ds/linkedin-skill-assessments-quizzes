@@ -12,7 +12,6 @@
 - [ ] The Scrum Master should not attend—this meeting is for developers only.
 - [ ] Ask each developer what they did since the last daily standup.
 
-#### Q3. Which factor should not be considered during Sprint Planning?
 - [ ] the team's velocity
 - [x] the number of stories in the product backlog
 - [ ] the stories that are ready
@@ -297,7 +296,7 @@ It is suggested that high business value, high-risk items are worked on first. W
 - [ ] Work Flow Indicator
 - [ ] Value Stream Map
 - [ ] Story Map
-- [x] Kanban Beard
+- [x] Kanban Board
 
 #### Q50. Which is the best definition of story points?
 - [x] They are a relative measure of the effort needed to complete a story.
