@@ -394,7 +394,7 @@ It is suggested that high business value, high-risk items are worked on first. W
 - [ ] Bring the complaint to the other person and try to resolve the issue.
 - [ ] Ask them to talk to the other person and try to work it.
 - [ ] Notify HR of the problem and ask them to handle it.
-- [x] Invite both people a meeting and try mediate the conflict.
+- [x] Invite both people to a meeting and try mediate the conflict.
 
 #### Q66. What is the forming-storming-norming, performing model of team development known as?
 - [x] the Tuckman model
